@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Mario Verde.👋
 
 - 🔭 Trabalhando com Game Dev.
-- 🌱 Estudando Python e GDScript.
+- 🌱 Estudando HTML, CSS, Python e GDScript.
 - 😄 Pronomes: Ele/Dele.
 
 <div>
@@ -11,8 +11,10 @@
 </div>
 
 <div>
-  <img align="center" alt="Code-Python" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="Code-Python" height="48" widht="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="center" alt="Code-Godot" height="41" widht="51" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+  <img align="center" alt="Code-HTML" height="41" widht="51" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Code-CSS" height="41" widht="51" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <div/>
 
 ##
