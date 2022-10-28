@@ -5,9 +5,9 @@
 - 😄 Pronomes: Ele/Dele.
 
 <div>
-  <a href="https://github.com/code-green-mario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-green-mario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-green-mario&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/green-mario-1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=green-mario-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-mario-1&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div>
