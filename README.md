@@ -1,8 +1,9 @@
-## Opa! Eu sou o Mario Verde.👋
+## Yo! I'm Green Mario.👋
 
-- 🔭 Trabalhando com Game Dev.
-- 🌱 Estudando HTML, CSS, Python e GDScript.
-- 😄 Pronomes: Ele/Dele.
+- 🏳️ Nationality: Brasileiro
+- 🔭 Working with Game Dev.
+- 🌱 Studying HTML, CSS, Python and GDScript.
+- 😄 Pronouns: He/Him.
 
 <div>
   <a href="https://github.com/green-mario-1">
