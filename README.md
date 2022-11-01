@@ -1,4 +1,4 @@
-## Yo! I'm Green Mario.👋
+## Yo! I'm Luiggi.👋
 
 - 🏳️ Nationality: Brasileiro
 - 🔭 Working with Game Dev.
@@ -6,9 +6,9 @@
 - 😄 Pronouns: He/Him.
 
 <div>
-  <a href="https://github.com/green-mario-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=green-mario-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-mario-1&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/luiggi-1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiggi-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggi-1&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div>
