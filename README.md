@@ -1,7 +1,7 @@
 ## Yo! I'm Luiggi.👋
 
 - 🏳️ Nationality: Brazilian.
-- 🔭 Working with Game Dev.
+- 🔭 Hobbies: Game Dev and Pixel Art.
 - 🌱 Studying HTML, CSS, Python and GDScript.
 - 😄 Pronouns: He/Him.
 
