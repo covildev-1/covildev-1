@@ -6,9 +6,9 @@
 - 😄 Pronouns: He/Him.
 
 <div>
-  <a href="https://github.com/luiggi-1">
+  <a href="https://github.com/covildev-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiggi-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggi-1&layout=compact&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=covildev-1&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 <div>
